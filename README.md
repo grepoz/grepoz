@@ -36,6 +36,6 @@ Finding optimal solutions to real problems along with good team excites me.
 
 :football:    :chart_with_upwards_trend:    :cake:    :bike:
 
-<br/>**How to reach me?** 📫
-[LinkedIn](https://www.linkedin.com/in/grepoz/)
-email: grepoz.work@gmail.com
+<br/>**How to reach me?** 📫 <br/>
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/grepoz/)<br/>
+Email: grepoz.work@gmail.com
