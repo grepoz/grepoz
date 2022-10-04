@@ -7,8 +7,7 @@ Finding optimal solutions to real problems along with good team excites me.
 ### 🌱 I’m currently
 <ul>
   <li>working on my BSc Thesis: <i>A stock trading decision support system using data from social media platforms</i></li>
-  <li>sharpen my <img src="https://img.shields.io/badge/-.NET-000?&logo=.NET"> with EPAM Development Course</li>
-  <li>learning <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes"> by creating cluster that runs and manages multiple Minecraft servers</li>
+  <li>sharpen my <img src="https://img.shields.io/badge/-.NET-000?&logo=.NET"> during internship in Automotive Mastermind project</li>
 </ul>
 
 ### Languages
