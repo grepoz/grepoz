@@ -1,13 +1,14 @@
 # Hi, I'am @grepoz👋
 
 ### 🖐 About me 
-I’m studying Computer Science at Gdańsk University of Technology and work part time in High School as a computer science teacher. 
-Finding optimal solutions to real problems along with good team excites me. 
+I’m studying Computer Science at Gdańsk University of Technology and work part time in Automotive Mastermind as .NET Software Developer intern.
+Finding optimal solutions to real problems along with good team excites me.
 
 ### 🌱 I’m currently
 <ul>
-  <li>working on my BSc Thesis: <i>A stock trading decision support system using data from social media platforms</i></li>
-  <li>sharpen my <img src="https://img.shields.io/badge/-.NET-000?&logo=.NET"> during internship in Automotive Mastermind project</li>
+  <li>finishing my BSc Thesis: <i>A stock trading decision support system using data from social media platforms</i></li>
+  <li>(C)sharpen my <img src="https://img.shields.io/badge/-.NET-000?&logo=.NET"> during internship in Automotive Mastermind project</li>
+  <li>learing skiing :ski:</li>
 </ul>
 
 ### Languages
@@ -23,6 +24,7 @@ Finding optimal solutions to real problems along with good team excites me.
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Scrum](https://img.shields.io/badge/🌀-Scrum-000)
+![Entity Framework](https://img.shields.io/badge/EF-EntityFramework-000)
 
 ### Soft skills
 
