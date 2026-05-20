@@ -1,7 +1,7 @@
 # Hi, I'am @grepoz👋
 
 ### 🖐 About me 
-I’m working in Automotive Mastermind as .NET Software Developer intern.
+I’m working in Automotive Mastermind as .NET Software Engineer.
 Finding optimal solutions to real problems along with good team excites me.
 <br/>
 
