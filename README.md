@@ -1,13 +1,13 @@
 # Hi, I'am @grepoz👋
 
 ### 🖐 About me 
-I’m studying Computer Science at Gdańsk University of Technology and work part time in Automotive Mastermind as .NET Software Developer intern.
-Findingoptimal solutions to real problems along with good team excites me.
+I’m working in Automotive Mastermind as .NET Software Developer intern.
+Finding optimal solutions to real problems along with good team excites me.
 <br/>
 
 ### 🌱 I’m currently
 <ul>
-  <li>have a good time during internship in Automotive Mastermind project</li>
+  <li>working on large project in Automotive Mastermind: <i>Marketing Lab</i>: Platform for creating and managing marketing campaigns</li>
   <li>working on my master thesis: <i>Forecasting bankruptcy of public companies based on fundamental and technical analysis by using selected computational intelligence methods</i></li>
   <li>beating personal record in plank exercise 💪 (~3min)</li>
 </ul>
@@ -34,6 +34,8 @@ Findingoptimal solutions to real problems along with good team excites me.
 
 #### AI technologies
 
+ClaudeCode
+Github Copilot
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Weights&Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 
